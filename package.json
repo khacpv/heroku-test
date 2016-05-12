@@ -9,7 +9,6 @@
   "author": "VietJS <info@vietjs.com> (http://vietjs.com/)",
   "license": "ISC",
   "dependencies": {
-    "evilscan": "0.0.9",
     "express": "^4.4.0"
   }
 }
